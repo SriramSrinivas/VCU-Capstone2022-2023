@@ -44,7 +44,7 @@ All classroom activities will take place in zoom (https://vcuhealth.zoom.us/j/98
 
 
 ### Attendance
-Class Attendance is mandatory. Given the course involves using advance tools such as Vagrant, cloud and Docker, attendance is highly recommended. If you miss class, you are responsible for getting the material. If you miss more than 2 classes without prior permission from the instructor you will be administratively withdrawn from the class. Only 4 excused absence are allowed, anything above that will not be permitted. If there are any guest lectures scheduled, attendance is mandatory.  Due to snow or any bad weather if the university is closed, we will meet virtually via zoom.   
+Class Attendance is mandatory. Given the course involves using advance tools such  Docker, attendance is highly recommended. If you miss class, you are responsible for getting the material. Due to snow or any bad weather if the university is closed, we will meet virtually via zoom.   
 
 ### Special accommodations for students with disabilities
 Students with disabilities requiring special accommodations must contact disability services. 
