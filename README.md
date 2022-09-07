@@ -13,7 +13,7 @@ All classroom activities will take place in zoom (https://vcuhealth.zoom.us/j/98
 
 ## Syllabus
 ### Date/Time:  Wednesday 5:30 PM- 6:30 PM
-### Instructor :Sriram Srinivasan
+### Mentor: Sriram Srinivasan
 ### Office:( All mettings are currently via zoom only)
 ### Office Hours: Friday 6:30 PM - 7:30 PM, if you can't make it during that time slack me we can work out and find a mutual time.
 ### E-mail: sriram.srinivasan@vcuhealth.org (please message me on slack instead of emailing)
