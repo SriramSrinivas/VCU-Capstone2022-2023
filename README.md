@@ -19,7 +19,7 @@ All classroom activities will take place in zoom () unless otherwise noted ahead
 ### E-mail: sriram.srinivasan@vcuhealth.org (please message me on slack instead of emailing)
 ### Slack Link- 
 ### Due to ongoing COVID-19 situation the class will be meeting online via zoom. We will be all meeting via zoom (see the link below). Attendance is completely mandatory, Zoom will record all the meetings and will tell me who all attended the meeting. 
-### Zoom link :-https://vcuhealth.zoom.us/j/98161555178
+### Zoom link :-https://unomaha.zoom.us/j/2063248555?pwd=VGpkTkNXcXE3b3pPcFZ3WUxJZVBqUT09
 
 ### Class Overview:	
 - We will be updating the existing Dashboard application and try to improve the data visualization using Tableau
