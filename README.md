@@ -24,7 +24,7 @@ All classroom activities will take place in zoom (https://unomaha.zoom.us/j/2063
 ### Class Overview:	
 - We will be updating the existing Dashboard application and try to improve the data visualization using Tableau
 - We will add new data searching methods
-- We will ass SSO login method to dashboard
+- We will add SSO login method to dashboard
 
 
 
