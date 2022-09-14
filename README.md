@@ -40,10 +40,10 @@ All classroom activities will take place in zoom () unless otherwise noted ahead
 
 
 ### Tutorial
-- Angular:https://angular.io/docs
-- Mongo DB:https://www.mongodb.com/docs/manual/tutorial/getting-started/, https://www.mongodb.com/docs/
-- Node JS:https://www.tutorialspoint.com/nodejs/index.htm,  https://rxjs.dev/
-- Docker:https://docs.docker.com/
+- Angular: https://angular.io/docs
+- Mongo DB: https://www.mongodb.com/docs/manual/tutorial/getting-started/, https://www.mongodb.com/docs/
+- Node JS: https://www.tutorialspoint.com/nodejs/index.htm,  https://rxjs.dev/
+- Docker: https://docs.docker.com/
 
 
 
