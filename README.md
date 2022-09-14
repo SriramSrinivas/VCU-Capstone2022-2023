@@ -8,7 +8,7 @@ I have setup an online discussion board on slack.com for usage in this class. If
 
 
 ## Location
-All classroom activities will take place in zoom (https://vcuhealth.zoom.us/j/98161555178) unless otherwise noted ahead of time.
+All classroom activities will take place in zoom () unless otherwise noted ahead of time.
 
 
 ## Syllabus
@@ -39,7 +39,11 @@ All classroom activities will take place in zoom (https://vcuhealth.zoom.us/j/98
 - All code will be submitted via Github only. No other means of submission will be accepted, unless otherwise noted ahead of time
 
 
-
+### Tutorial
+- Angular:https://angular.io/docs
+- Mongo DB:https://www.mongodb.com/docs/manual/tutorial/getting-started/, https://www.mongodb.com/docs/
+- Node JS:https://www.tutorialspoint.com/nodejs/index.htm,  https://rxjs.dev/
+- Docker:https://docs.docker.com/
 
 
 
