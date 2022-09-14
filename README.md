@@ -8,7 +8,7 @@ I have setup an online discussion board on slack.com for usage in this class. If
 
 
 ## Location
-All classroom activities will take place in zoom () unless otherwise noted ahead of time.
+All classroom activities will take place in zoom (https://unomaha.zoom.us/j/2063248555?pwd=VGpkTkNXcXE3b3pPcFZ3WUxJZVBqUT09) unless otherwise noted ahead of time.
 
 
 ## Syllabus
